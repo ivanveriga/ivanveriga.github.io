@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    max-width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 130%;
+}
